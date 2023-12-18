@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+.thirdPage {
+    font-family: 'Mulish', sans-serif;
+}
+
+.thirdPage-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.thirdPage-features {
+   max-width: 475px;
+
+   padding-top: 72px;
+}
+
+.thirdPage-features__image {
+    
+    background-color: #EEBE42;
+    border-radius: 6px;
+    padding: 7px;
+}
+
+.thirdPage-features__title {
+    margin: 24px 0 24px 0;
+
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 110%;
+    letter-spacing: -1.26px;
+}
+
+
+.thirdPage-features__card {
+    border-radius: 6px;
+    margin-bottom: 14px;
+
+    box-shadow: 3px 3px 12px 1px #e2e2e2;
+
+    padding: 24px 28px 36px 28px;
+}
+
+.three{
+    margin-bottom: 0px;
+}
+
+
+
+.card-title {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+
+}
+
+.card-title__text {
+    margin-left: 10px;
+
+    font-weight: 700;
+}
+
+.card-text{
+    margin-top: 20px;
+
+    font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 190%; /* 30.4px */
+letter-spacing: 0.32px;
+}
+
+.card-title__image {
+    border-radius: 6px;
+    background-color: black;
+    padding: 5px;
+}
+
+.layers {
+    background-color: #0017314D;
+}
+.train {
+    background-color: #0017314D;
+}
+.thirdPage-features__AboutMe {
+    display: flex;
+    align-items: center;
+    
+    border-radius: 6px;
+    background-color: #F7F7F7;
+
+    padding: 15px;
+    margin: 35px 0;
+}
+
+
+.AboutMe-text{
+    margin-left: 16px;
+}
+
+.AboutMe-text__one{
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 145%;
+
+    margin-bottom: 8px;
+}
+
+.AboutMe-text__name{
+    font-weight: 700;
+}
+
+.thirdPage-features__btn{
+    padding-bottom: 117px;
+}
+
+.thirdPage-features__link{
+    padding: 8px 22px;
+    background-color: #E5E5E5;
+    border-radius: 4px;
+    color: black;
+
+}
+
+.thirdPage-features__link:hover{
+    padding: 8px 22px;
+    background-color: #398BFF;
+}
+
+
+.thirdPage-image {
+    width: 683px;
+
+    
+}

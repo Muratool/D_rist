@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+.firstPage {
+    font-family: 'Mulish', sans-serif;
+
+    position: relative;
+
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+
+
+
+.image {
+    max-width: 1920px;
+}
+
+
+.firstPage-column {
+    display: flex;
+    flex-direction: column;
+
+
+}
+.firstPage-title {
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 95%;
+    letter-spacing: -2.16px;
+
+
+    max-width: 715px;
+
+    margin-bottom: 34px;
+    padding-top: 106px;
+
+    color: #fff;
+}
+
+.firstPage-btns__row {
+    display: flex;
+    align-items: center;
+
+    margin-bottom: 36px;
+
+}
+.firstPage-btns__item {
+    margin-right: 14px;
+
+    
+    
+}
+
+.firstPage-btns__link{
+    padding: 8px 22px;
+    background-color: #E5E5E5;
+    border-radius: 4px;
+    /* color: #fff; */
+}
+
+
+.firstPage-btns__link:hover {
+    background-color: #398BFF;
+}
+
+
+.firstPage-btns__or {
+    margin-right: 14px;
+    color: #fff;
+}
+
+
+.firstPage-title__two {
+    color: #AAC0E0;
+   
+
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 145%; /* 31.9px */
+
+    max-width: 533px;
+
+    padding-bottom: 331px;
+
+    color: #fff;
+}
+
+.PK{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+    z-index: 1;
+}
+
+.Elipse{
+    position: absolute;
+    bottom: 0;
+    right: 150px;
+
+    width: 869px;
+    height: 869px;
+    flex-shrink: 0;
+
+    
+}
